@@ -1,0 +1,49 @@
+[
+  {
+    "id": "demo-human-1",
+    "case": "Human-written normal submission",
+    "assignment_name": "History 101 - Industrial Revolution",
+    "student_id": "demo_student_human",
+    "text": "The Industrial Revolution was a crazy time in history that completely changed how people lived. Before it happened, most people lived on farms and made their own stuff. But when the steam engine was invented, factories started popping up everywhere in cities like Manchester. It was really hard for the workers though. Kids had to work long hours in terrible conditions, which is pretty sad to think about. Eventually laws were passed to protect them, but the early days were brutal. Overall it brought a lot of new technology but at a huge cost to human life."
+  },
+  {
+    "id": "demo-ai-1",
+    "case": "AI-generated-style submission",
+    "assignment_name": "History 101 - Industrial Revolution",
+    "student_id": "demo_student_ai",
+    "text": "The Industrial Revolution stands as a pivotal epoch in human history, profoundly transforming socio-economic paradigms across the globe. Primarily initiated in Great Britain during the late 18th century, it marked a monumental shift from agrarian economies to mechanized industrial landscapes. Furthermore, the advent of steam power catalyzed unprecedented urbanization and technological advancement. However, it is crucial to recognize the significant human cost associated with this era. In conclusion, while the Industrial Revolution undeniably fostered progress, it also engendered severe labor exploitation that ultimately necessitated comprehensive legislative reform."
+  },
+  {
+    "id": "demo-paraphrase-1",
+    "case": "AI-paraphrased-style submission",
+    "assignment_name": "History 101 - Industrial Revolution",
+    "student_id": "demo_student_paraphrase",
+    "text": "The Industrial Awakening remains a crucial period in human civilization, deeply altering economic structures around the world. Initially started in England throughout the late 1700s, it signified a massive transition from farming societies to automated manufacturing environments. Moreover, the invention of steam energy sparked unmatched city growth and technical progress. Nevertheless, it is vital to acknowledge the substantial human toll linked to this period. To summarize, although the Industrial Awakening definitely promoted advancement, it concurrently caused intense worker mistreatment that eventually required extensive legal changes.",
+    "reference_sources": [
+      {
+        "id": "Wikipedia - Industrial Revolution",
+        "text": "The Industrial Revolution stands as a pivotal epoch in human history, profoundly transforming socio-economic paradigms across the globe. Primarily initiated in Great Britain during the late 18th century, it marked a monumental shift from agrarian economies to mechanized industrial landscapes. Furthermore, the advent of steam power catalyzed unprecedented urbanization and technological advancement. However, it is crucial to recognize the significant human cost associated with this era. In conclusion, while the Industrial Revolution undeniably fostered progress, it also engendered severe labor exploitation that ultimately necessitated comprehensive legislative reform."
+      }
+    ]
+  },
+  {
+    "id": "demo-copied-1",
+    "case": "Submission with strong source similarity",
+    "assignment_name": "History 101 - Industrial Revolution",
+    "student_id": "demo_student_copied",
+    "text": "The Industrial Revolution was the transition to new manufacturing processes in Great Britain, continental Europe, and the United States, that occurred during the period from around 1760 to about 1820–1840. This transition included going from hand production methods to machines, new chemical manufacturing and iron production processes, the increasing use of steam power and water power, the development of machine tools and the rise of the mechanized factory system. Output greatly increased, and a result was an unprecedented rise in population and in the rate of population growth.",
+    "reference_sources": [
+      {
+        "id": "Encyclopedia - Industrial Revolution Overview",
+        "text": "The Industrial Revolution was the transition to new manufacturing processes in Great Britain, continental Europe, and the United States, that occurred during the period from around 1760 to about 1820–1840. This transition included going from hand production methods to machines, new chemical manufacturing and iron production processes, the increasing use of steam power and water power, the development of machine tools and the rise of the mechanized factory system. Output greatly increased, and a result was an unprecedented rise in population and in the rate of population growth."
+      }
+    ]
+  },
+  {
+    "id": "demo-mixed-1",
+    "case": "Mixed/ambiguous submission",
+    "assignment_name": "History 101 - Industrial Revolution",
+    "student_id": "demo_student_mixed",
+    "text": "When we look back at the 1800s, it's wild to see how much things changed. The Industrial Revolution stands as a pivotal epoch in human history, profoundly transforming socio-economic paradigms across the globe. It marked a monumental shift from agrarian economies to mechanized industrial landscapes. I think it's really interesting how factories completely ruined the environment so quickly. Furthermore, the advent of steam power catalyzed unprecedented urbanization and technological advancement. So basically, the world was never the same again after they started burning coal everywhere."
+  }
+]

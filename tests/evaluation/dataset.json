@@ -1,0 +1,22 @@
+[
+  {
+    "id": "human_1",
+    "text": "I think the main theme of the Great Gatsby is the corruption of the American Dream. Gatsby tries so hard to get Daisy back, but his money is from bootlegging. It shows that just having money doesn't make you a good person or get you what you actually want in the end. Tom and Daisy are careless people who smash things up and let others clean the mess.",
+    "label": "human"
+  },
+  {
+    "id": "ai_1",
+    "text": "The Great Gatsby, a quintessential novel by F. Scott Fitzgerald, meticulously examines the fundamental disillusionment of the American Dream during the Roaring Twenties. Furthermore, the narrative highlights the dichotomy between new money and old money. Gatsby's relentless pursuit of wealth ultimately demonstrates the hollow nature of materialistic ambition. Consequently, the characters are left in a state of profound moral decay.",
+    "label": "ai-generated"
+  },
+  {
+    "id": "paraphrased_1",
+    "text": "The primary underlying concept of Fitzgerald's masterpiece involves the deterioration of the American fantasy. Gatsby exerts tremendous effort to retrieve Daisy, yet his wealth originates from illicit activities. This demonstrates that possessing immense riches does not equate to morality or guarantee ultimate fulfillment. Ultimately, the affluent characters remain negligent individuals who destroy lives and expect others to repair the damage.",
+    "label": "ai-paraphrased"
+  },
+  {
+    "id": "mixed_1",
+    "text": "I really liked reading this book because it shows how money ruins people. The Great Gatsby, a quintessential novel by F. Scott Fitzgerald, meticulously examines the fundamental disillusionment of the American Dream. Gatsby tries so hard to get Daisy back, but his money is from bootlegging. Gatsby's relentless pursuit of wealth ultimately demonstrates the hollow nature of materialistic ambition.",
+    "label": "mixed"
+  }
+]
